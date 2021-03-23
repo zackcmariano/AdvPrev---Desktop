@@ -1,4 +1,4 @@
 # AdvPrev - Desktop
 ### Advogado / Direito Previdenciário
  
- ![advprev - screen](https://user-images.githubusercontent.com/76967004/112132809-c5406e00-8ba9-11eb-9f3f-f694dec1e58f.png)
+![TELAS APP - ADVPREV](https://user-images.githubusercontent.com/76967004/112208513-2fcbcb00-8bf7-11eb-8b7a-7e731c609a15.png)
