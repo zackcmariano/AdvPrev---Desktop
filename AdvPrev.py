@@ -9,11 +9,11 @@ import webbrowser
 #CONNECTION TO THE MYSQL DATABASE 
 #FOR VALIDATION AND INSERTING OF APPLICATION DATA.
 banco = mysql.connector.connect(
-        host="127.0.0.1",
-        port="3306",
-        user="ZACKADM",
-        passwd="Mk2855ssb#",
-        database="advprev"
+        host="insert host",
+        port="insert port",
+        user="insert user",
+        passwd="insert password",
+        database="insert database"
     )
 
 
